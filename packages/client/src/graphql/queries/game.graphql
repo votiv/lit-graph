@@ -1,0 +1,6 @@
+query gamesQuery {
+  getGames {
+    name
+    year
+  }
+}
