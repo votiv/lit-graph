@@ -3,7 +3,7 @@
   "sideEffects": false,
   "version": "1.0.0",
   "main": "./src/index.ts",
-  "author": "Othniel <othniel.visky@capgemini.com>",
+  "author": "Othniel <viskytofi@2gmail.com>",
   "license": "MIT",
   "scripts": {
     "start": "webpack-dev-server --env development",
@@ -16,8 +16,7 @@
     "apollo-link-http": "^1.5.16",
     "graphql": "^14.5.8",
     "graphql-tag": "^2.10.1",
-    "lit-html": "^1.1.2",
-    "lodash": "^4.17.15"
+    "lit-html": "^1.1.2"
   },
   "devDependencies": {
     "@babel/cli": "^7.7.4",
